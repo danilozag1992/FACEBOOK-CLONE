@@ -108,7 +108,10 @@ $ cd rails c
 
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details
  
-
+## Contact
+[Email](mailto:danilozagarcanin@gmail.com)
+[Linkedin](https://www.linkedin.com/in/danilo-zagarcanin-88169b185/)
+[Twitter](https://twitter.com/danilo96061514)
 
 
 
